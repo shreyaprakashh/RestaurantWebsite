@@ -1,6 +1,3 @@
-# RestaurantWebsite
-This is a responsive website made for a restaurant.
-Live Preview - https://shreyaprakashh.github.io/RestaurantWebsite/
 # Restaurant Website
 
 This is a simple website for a restaurant, showcasing its menu, location, contact information, and more.
